@@ -76,7 +76,7 @@
         "ALIVE": {
             "description": "Alive message {https://i.imgur.com/CqGvbXO.jpeg}, {sender} can also be used",
             "required": false,
-            "value":"{pp} Active since {uptime}\n User:{sender}"
+            "value":"{pp}{https://i.imgur.com/CqGvbXO.jpeg} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
             "description": "Your MD session",
